@@ -1,7 +1,7 @@
 #
 # Feedback on test: A working individual will not get 10 hours free time to work on such a test but can do all of the following tasks. Thanks for the questions.
 #
-1. Deploying Kubernetes and Helm in the K8-3nodecluster.odt. Additional reference: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
+1. Deploying Kubernetes and Helm in the file K8-3nodecluster.odt. Additional reference: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
 2. Create a namespace: 
 create a file dev_namespace.json with following content: 
 {
