@@ -26,7 +26,7 @@ cat << EOF | sudo tee /etc/apt/sources.list.d/kubernetes.list
 deb https://apt.kubernetes.io/ kubernetes-xenial main
 EOF
 
-apt-get update
+1. apt-get update
 
 Install docker kubelet, kubeadm, kubectl
 apt-get install -y docker-ce kubelet kubeadm kubectl
