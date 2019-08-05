@@ -3,7 +3,7 @@
 #
 1. Deploying Kubernetes and Helm in the K8-3nodecluster.odt. Additional reference: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
 2. Create a namespace: 
-create a file dev_namespace.json
+create a file dev_namespace.json with following content: 
 {
   "apiVersion": "v1",
   "kind": "Namespace",
